@@ -1,13 +1,17 @@
 # TecnologiasEmergentesProyectoFinal
 Repositorio para el proyecto final de la clase de Tecnologias Emergentes, Equipo 3
 
-- Images of five classes of animals are stored in a Google Drive folder and are accessed through the code.
-- All images were resized to 224 x 224.
-
 FILE MANIFEST
 1. fastai-pets.ipynb - main code file
 2. resizeImage.py - code to resize images to a specific size
 3. dataAugemnt.py - code to perform data augmentation
+
+HOW TO USE THIS CODE
+1. Gather a set of images for five different animals.
+2. To run the program in your computer please remove "#" from #project_base_dir = 'images/'
+3. Divide the image set into training and validation sets.
+4. Resize all images to 224 x 224. The neural network won't accept any other sizes.
+5. You can use dataAugemnt.py to increase the number of images.
 
 TEAM
 A01039364	Fernando Romero 
