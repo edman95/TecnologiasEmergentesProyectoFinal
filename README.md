@@ -2,7 +2,7 @@
 Repositorio para el proyecto final de la clase de Tecnologias Emergentes, Equipo 3
 
 FILE MANIFEST
-1. fastai-pets.ipynb - main code file
+1. nn-animals.ipynb - main code file
 2. resizeImage.py - code to resize images to a specific size
 3. dataAugemnt.py - code to perform data augmentation
 
